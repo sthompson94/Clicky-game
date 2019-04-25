@@ -1,16 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Nav from './components/title'
-import Card from './components/card'
+import Header from './components/header'
 
 function App() {
   return (
     <div className="App">
       <Nav />
-      <div className="container">
-      <Card />
-      </div>
+      <Header />
     </div>
   );
 }
