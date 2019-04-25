@@ -1,6 +1,7 @@
 import React from 'react';
 import Card from './card'
 import Data from '../data/data'
+import Jumbotron from './jumbotron'
 
 class Score extends React.Component {
 
@@ -53,6 +54,7 @@ class Score extends React.Component {
                     <h3 className="navbar-brand float-right">Top Score:{this.state.topScore}</h3>
                     <h3 className="navbar-brand float-right">Score:{this.state.score}</h3>
                 </nav>
+                <Jumbotron />
                 <div className="container">
                     <Card
                         handleScore={this.handleScore}
