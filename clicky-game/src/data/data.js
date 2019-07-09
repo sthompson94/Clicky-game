@@ -1,50 +1,50 @@
 const characters = [{
-        name: "Happy",
-        src: "https://i.imgur.com/70hFZWD.jpg"
+        name: "Spongebob",
+        src: "https://i.imgur.com/Ij9ef5s.jpg"
     },
     {
-        name: "Sad",
-        src: "https://i.imgur.com/70hFZWD.jpg"
+        name: "Patrick",
+        src: "https://i.imgur.com/Ajax1CC.jpg"
     },
     {
-        name: "Anxious",
-        src: "https://i.imgur.com/70hFZWD.jpg"
+        name: "Timmy Turner",
+        src: "https://i.imgur.com/KW29Ufu.jpg"
     },
     {
-        name: "Angry",
-        src: "https://i.imgur.com/70hFZWD.jpg"
+        name: "Goku",
+        src: "https://i.imgur.com/JAoRjtg.png"
     },
     {
-        name: "Hurt",
-        src: "https://i.imgur.com/70hFZWD.jpg"
+        name: "Powerpuff Girls",
+        src: "https://i.imgur.com/aIIoTuu.jpg"
     },
     {
-        name: "Delighted",
-        src: "https://i.imgur.com/70hFZWD.jpg"
+        name: "Catdog",
+        src: "https://i.imgur.com/EtWGTVs.png"
     },
     {
-        name: "Depressed",
-        src: "https://i.imgur.com/70hFZWD.jpg"
+        name: "Rocket Power",
+        src: "https://i.imgur.com/0I6TlR1.jpg"
     },
     {
-        name: "Calm",
-        src: "https://i.imgur.com/70hFZWD.jpg"
+        name: "Courage the Cowardly Dog",
+        src: "https://i.imgur.com/0YciAZO.jpg"
     },
     {
-        name: "Joy",
-        src: "https://i.imgur.com/70hFZWD.jpg"
+        name: "Bart Simpson",
+        src: "https://i.imgur.com/omsFInj.jpg"
     },
     {
-        name: "Interested",
-        src: "https://i.imgur.com/70hFZWD.jpg"
+        name: "Ed, Edd, Eddy",
+        src: "https://i.imgur.com/qTTz9Om.jpg"
     },
     {
-        name: "Fear",
-        src: "https://i.imgur.com/70hFZWD.jpg"
+        name: "Rugrats",
+        src: "https://i.imgur.com/m1pBFpT.jpg"
     },
     {
-        name: "Bored",
-        src: "https://i.imgur.com/70hFZWD.jpg"
+        name: "Hey Arnold",
+        src: "https://i.imgur.com/jsv9Ryj.jpg"
     }
 ]
 

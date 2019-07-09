@@ -2,8 +2,8 @@ import React from 'react';
 
 function Nav() {
     return (
-      <nav className="navbar navbar-expand-lg navbar-light bg-dark">
-        <h1 className="navbar-brand text-light mx-auto"> Clicky Game</h1>
+      <nav className="navbar navbar-expand-lg">
+        <h1 className="navbar-brand mx-auto orange"> Cartoon Memory Game</h1>
       </nav>
     );
   }
