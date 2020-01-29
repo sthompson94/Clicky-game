@@ -20,6 +20,12 @@ class Score extends React.Component {
             alert("You Lose")
         }
 
+        else if(this.state.score === 12){
+            alert("You WIN")
+            this.setState({ score: 0 })
+            this.setState({ characters: [] })
+        }
+
         else {
 
             this.setState({ score: this.state.score + 1 })
